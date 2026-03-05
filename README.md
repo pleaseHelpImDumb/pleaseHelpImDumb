@@ -1,7 +1,7 @@
 # Hi, I'm Adrian 👋
 Computer Science student graduating [Spring 2026]
 
-🌐 Portfolio: https://pleaseHelpImDumb.github.io  
+🌐 Portfolio: [Under Construction] https://pleaseHelpImDumb.github.io  
 💻 GitHub: You're here!
 
 ## Projects
